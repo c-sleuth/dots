@@ -1,3 +1,1 @@
-# dots
-
-dot files
+# dots & configs
